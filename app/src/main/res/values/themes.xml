@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Codiary" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#695D77</item>
+        <item name="colorPrimaryVariant">#695D77</item>
+    </style>
+
+    <style name="Theme.Codiary" parent="Base.Theme.Codiary" />
+
+</resources>

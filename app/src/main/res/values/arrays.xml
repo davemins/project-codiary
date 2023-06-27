@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="categories">
+        <item>프로그래밍 언어</item>
+        <item>알고리즘</item>
+        <item>데이터베이스</item>
+        <item>프레임워크</item>
+    </string-array>
+</resources>
