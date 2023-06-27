@@ -24,6 +24,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
+//TEST
 public class Fragment1 extends Fragment {
     private DatePicker datePicker;
     private Spinner categorySpinner;
